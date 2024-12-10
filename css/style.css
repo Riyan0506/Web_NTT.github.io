@@ -258,7 +258,7 @@ body {
 #galeri {
     padding-top: 55px;
     background-color: #f0ebeb;
-    margin-left: -25px;
+    margin-left: -5px;
 }
 
 figure {
@@ -503,7 +503,7 @@ html {scroll-behavior:smooth;}
       cursor: pointer;
       position: relative;
       margin-left: -5px;
-      margin-bottom: -30px;
+      margin-bottom: -3 0px;
     }
 
     figcaption{
